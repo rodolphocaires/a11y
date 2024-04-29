@@ -1,3 +1,3 @@
 # a11y
 
-Projeto em Flutter para testes de acessibilidade
+Flutter project for accessibility tests
